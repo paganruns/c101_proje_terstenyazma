@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\bin\Debug\net6.0\c101_proje_terstenyazma.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\bin\Debug\net6.0\c101_proje_terstenyazma.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\bin\Debug\net6.0\c101_proje_terstenyazma.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\bin\Debug\net6.0\c101_proje_terstenyazma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\bin\Debug\net6.0\c101_proje_terstenyazma.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\refint\c101_proje_terstenyazma.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\c101_proje_terstenyazma.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_terstenyazma\obj\Debug\net6.0\ref\c101_proje_terstenyazma.dll
